@@ -2,21 +2,19 @@ import React from 'react'
 
 export default function Nav() {
     return (
-        <nav>
-            <ul>
-                <li>
+        <ul id='Nav'>
+                <li className='Nav-Item'>
                     <a href="#home">Home</a>
                 </li>
-                <li>
+                <li className='Nav-Item'>
                     <a href="#projects">Projects</a>
                 </li>
-                <li>
+                <li className='Nav-Item'>
                     <a href="#about">About</a>
                 </li>
-                <li>
+                <li className='Nav-Item'>
                     <a href="#contact">Contact</a>
                 </li>
-            </ul>
-        </nav>
+        </ul>
     );
 }

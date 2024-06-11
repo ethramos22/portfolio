@@ -1,3 +1,77 @@
 html {
   scroll-behavior: smooth;
 }
+.center {
+  text-align: center;
+}
+
+/* NAV BAR */
+
+.Nav-Item {
+  float: left;
+  padding-right: 10vh;
+  text-align: center;
+}
+
+.Nav-Item a {
+  display: block;
+  text-align: center;
+  padding: 15px;
+  text-decoration: none;
+  color: black;
+}
+
+.Nav-Item:hover{
+  background-color: gray;
+}
+
+#Nav {
+  margin: 0;
+  list-style-type: none;
+  padding: 0;
+  overflow: hidden;
+  background-color: #fff0ff;
+}
+
+/* HERO */
+
+#Hero {
+  background-color: gray;
+  font-size: large;
+  padding-left: 10vh;
+  padding-bottom: 10vh;
+  padding-top: 10vh;
+}
+
+#Hero-Header {
+  margin: 0;
+}
+
+#Subheading {
+  padding-left: 10vh;
+}
+
+/* PROJECTS */
+
+#projects {
+  
+}
+
+#Projects-Header {
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background: linear-gradient(black 50%, gray 50%);
+}
+
+.Card {
+  margin-right: 10px;
+  float: left;
+}
+
+.Card-Header{
+}
+
+.projectButtons {
+  border: none;
+}
