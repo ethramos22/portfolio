@@ -55,5 +55,9 @@ html {
 
 .card-header {
   background-color: var(--dark);
+  border-radius: 0 !important;
+}
+
+.card-image-top {
   border-radius: 0;
 }

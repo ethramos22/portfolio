@@ -13,10 +13,7 @@ export default function ProjectCard({project}) {
                     <Card.Title>{project.name}</Card.Title>
                     <Card.Subtitle>{project.desc}</Card.Subtitle>
                     <Card.Text>{project.info}</Card.Text>
-                    <ButtonGroup>
-                        <Button variant='secondary'>Like</Button>
-                        <Button variant='secondary'>+</Button>
-                    </ButtonGroup>
+                    <Button variant='secondary'>View Project</Button>
                 </Card.Body>
             </Card>
         </Col>
