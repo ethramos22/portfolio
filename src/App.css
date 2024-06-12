@@ -7,11 +7,6 @@ html {
   scroll-behavior: smooth;
 }
 
-.navbar {
-  background-color: var(--dark) !important;
-  border-bottom: 2px solid black;
-}
-
 .btn {
   background-color: var(--dark);
   border: 2px solid black;
@@ -19,8 +14,36 @@ html {
   color: black;
 }
 
+/* NavBar */
+
+.navbar {
+  background-color: var(--dark) !important;
+  border-bottom: 2px solid black;
+}
+
+/* HERO */
+
+#Hero {
+  font-size: large;
+}
+
+
+/* Quick Links */
+
+#quickLinks {
+  transform: translateY(50%);
+}
+
 .large .btn {
   padding-right: 100px;
+}
+
+/* PROJECTS */
+
+#projects {
+  background-color: lightgray;
+  border-top: 2px solid black;
+  margin: none;
 }
 
 .card {
@@ -33,40 +56,4 @@ html {
 .card-header {
   background-color: var(--dark);
   border-radius: 0;
-}
-
-/* HERO */
-
-#Hero {
-  font-size: large;
-}
-
-#Hero-Header {
-  margin: 0;
-}
-
-
-/* Quick Links */
-
-#quickLinks {
-  transform: translateY(50%);
-}
-
-/* PROJECTS */
-
-#projects {
-  background-color: lightgray;
-  border-top: 2px solid black;
-  margin: none;
-}
-
-#Projects-Header {
-  padding-top: 10px;
-  padding-bottom: 10px;
-  
-}
-
-.project-card {
-  border-right: 2px solid black;
-  border-bottom: 2px solid black;
 }
