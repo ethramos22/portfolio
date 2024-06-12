@@ -1,7 +1,6 @@
 import React from 'react'
-import placeholderIMG from '../assets/legoPlaceholder.jpg'
 // Bootstrap
-import { Card, Col, Button, ButtonGroup } from 'react-bootstrap';
+import { Card, Col, Button} from 'react-bootstrap';
 
 export default function ProjectCard({project}) {
     return (
