@@ -8,7 +8,7 @@ export default function ProjectCard({project}) {
         <Col key={project.id}>
             <Card>
                 <Card.Header></Card.Header>
-                <Card.Img variant="top" src={placeholderIMG} alt='sad lego man' />
+                <Card.Img variant="top" src={project.img} alt='sad lego man'/>
                 <Card.Body>
                     <Card.Title>{project.name}</Card.Title>
                     <Card.Subtitle>{project.desc}</Card.Subtitle>
