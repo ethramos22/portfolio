@@ -28,20 +28,6 @@ export default function Projects() {
       desc: "C# .NET / React",
       info: "Dungeon and Dragons game master virtual tools. React frontend paired with C# .NET backend. Search for official monsters and spells, import characters, and create combat encounters.",
       img: [nameLogo, fireballLogo, playersPage, homePageCharacters, encounterSim, encounterBuilder, sampleMonster, spellEncounter]
-    },
-    {
-      id: 3,
-      name: "Android Health App",
-      desc: "Java / Android Studio",
-      info: "Short and sweet description",
-      img: [placeholderIMG1]
-    },
-    {
-      id: 4,
-      name: "Movie Web App",
-      desc: "JavaScript / D3",
-      info: "Short and sweet description",
-      img: [placeholderIMG1]
     }
   ]
   
