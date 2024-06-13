@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "256346c54d31afb9709c",
+    "revision": "41f8d42e3839808f0a9f",
     "url": "/portfolio/static/css/main.a4273a30.chunk.css"
   },
   {
-    "revision": "256346c54d31afb9709c",
-    "url": "/portfolio/static/js/main.256346c5.chunk.js"
+    "revision": "41f8d42e3839808f0a9f",
+    "url": "/portfolio/static/js/main.41f8d42e.chunk.js"
   },
   {
     "revision": "6f6f4986655de22842af",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/Spell Encounter Home.421d5e2e.png"
   },
   {
-    "revision": "ee84ec5080e2e23d3a7386a8bf8e7ae3",
+    "revision": "a1dc30fa8bf7cc85691842ceb72544e5",
     "url": "/portfolio/index.html"
   }
 ];

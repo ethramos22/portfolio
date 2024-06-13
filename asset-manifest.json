@@ -1,7 +1,7 @@
 {
   "main.css": "/portfolio/static/css/main.a4273a30.chunk.css",
-  "main.js": "/portfolio/static/js/main.256346c5.chunk.js",
-  "main.js.map": "/portfolio/static/js/main.256346c5.chunk.js.map",
+  "main.js": "/portfolio/static/js/main.41f8d42e.chunk.js",
+  "main.js.map": "/portfolio/static/js/main.41f8d42e.chunk.js.map",
   "static/js/1.6f6f4986.chunk.js": "/portfolio/static/js/1.6f6f4986.chunk.js",
   "static/js/1.6f6f4986.chunk.js.map": "/portfolio/static/js/1.6f6f4986.chunk.js.map",
   "static/css/2.3eb8c954.chunk.css": "/portfolio/static/css/2.3eb8c954.chunk.css",
@@ -17,9 +17,9 @@
   "static/media/Encounter Builder.png": "/portfolio/static/media/Encounter Builder.11221583.png",
   "static/media/Search Monster.png": "/portfolio/static/media/Search Monster.650aaa06.png",
   "static/media/Spell Encounter Home.png": "/portfolio/static/media/Spell Encounter Home.421d5e2e.png",
-  "static/css/2.3eb8c954.chunk.css.map": "/portfolio/static/css/2.3eb8c954.chunk.css.map",
   "static/css/main.a4273a30.chunk.css.map": "/portfolio/static/css/main.a4273a30.chunk.css.map",
+  "static/css/2.3eb8c954.chunk.css.map": "/portfolio/static/css/2.3eb8c954.chunk.css.map",
   "index.html": "/portfolio/index.html",
-  "precache-manifest.183441205a073dfbb6e093c24812d8a4.js": "/portfolio/precache-manifest.183441205a073dfbb6e093c24812d8a4.js",
+  "precache-manifest.b1ebfa8e11a0edd3043c6b8aa5f75076.js": "/portfolio/precache-manifest.b1ebfa8e11a0edd3043c6b8aa5f75076.js",
   "service-worker.js": "/portfolio/service-worker.js"
 }
