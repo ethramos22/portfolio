@@ -8,9 +8,9 @@ export default function QuickLinks() {
                 <h5>Quick Links</h5>
                 <ButtonGroup>
                     <div className='large'>
-                        <Button variant='secondary'>Projects</Button>
-                        <Button variant='secondary'>About Me</Button>
-                        <Button variant='secondary'>Contact</Button>
+                        <Button href='#projects' variant='secondary'>Projects</Button>
+                        <Button href='#about' variant='secondary'>About Me</Button>
+                        <Button href='#contact' variant='secondary'>Contact</Button>
                     </div>
                 </ButtonGroup>
             </Container>
