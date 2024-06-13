@@ -5,7 +5,7 @@ export default function Navigation() {
     return (
         <Navbar expand="lg" className="bg-body-tertiary" sticky='top'>
             <Container>
-                <Navbar.Brand href='#home'>Home</Navbar.Brand>
+                <Navbar.Brand href='#home'></Navbar.Brand>
                 <Nav className='me-auto'>
                     <Nav.Link href='#projects'>Projects</Nav.Link>
                     <Nav.Link href='#about'>About Me</Nav.Link>
