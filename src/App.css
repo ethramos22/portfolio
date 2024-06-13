@@ -38,10 +38,9 @@ html {
   transform: translateY(50%);
 }
 
-.large .btn {
-  padding-right: 100px;
+.spacer-right {
+  margin-right: 40px;
 }
-
 /* PROJECTS */
 
 #projects {

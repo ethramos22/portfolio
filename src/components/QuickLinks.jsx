@@ -1,5 +1,6 @@
 import React from 'react'
 import { Button, ButtonGroup, Container } from 'react-bootstrap'
+import { CornerRightDown } from 'react-feather';
 
 export default function QuickLinks() {
     return (
@@ -7,11 +8,17 @@ export default function QuickLinks() {
             <Container className='pb-4 mx-auto'>
                 <h5>Quick Links</h5>
                 <ButtonGroup>
-                    <div className='large'>
-                        <Button href='#projects' variant='secondary'>Projects</Button>
-                        <Button href='#about' variant='secondary'>About Me</Button>
-                        <Button href='#contact' variant='secondary'>Contact</Button>
-                    </div>
+                    <Button href='#projects' variant='secondary'>
+                        <span className='spacer-right'>Projects</span>
+                        <CornerRightDown className='right-align' color='black'/>
+                    </Button>
+                    <Button href='#about' variant='secondary'>
+                        <span className='spacer-right'>About Me</span>
+                        <CornerRightDown className='right-align' color='black'/>
+                    </Button>
+                    <Button href='#contact' variant='secondary'>
+                        <span className='spacer-right'>Contact Me</span>
+                        <CornerRightDown className='right-align' color='black'/></Button>
                 </ButtonGroup>
             </Container>
         </div>
