@@ -18,6 +18,13 @@ html {
   color: black;
 }
 
+.alt-background {
+  background-color: var(--light);
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  margin: none;
+}
+
 /* NavBar */
 
 .navbar {
@@ -41,14 +48,8 @@ html {
 .spacer-right {
   margin-right: 40px;
 }
-/* PROJECTS */
 
-#projects {
-  background-color: var(--light);
-  border-top: 2px solid black;
-  border-bottom: 2px solid black;
-  margin: none;
-}
+/* PROJECTS */
 
 .card {
   border: 2px solid black;
