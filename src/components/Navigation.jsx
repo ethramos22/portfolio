@@ -10,7 +10,7 @@ export default function Navigation() {
                 <Nav className='me-auto'>
                     <Nav.Link href='#projects'>Projects</Nav.Link>
                     <Nav.Link href='#about'>About Me</Nav.Link>
-                    <Nav.Link href='#contact'>Contact</Nav.Link>
+                    <Nav.Link href='#contact'>Contact Me</Nav.Link>
                 </Nav>
             </Container>
         </Navbar>
