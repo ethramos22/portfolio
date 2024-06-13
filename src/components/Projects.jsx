@@ -4,6 +4,7 @@ import ProjectCard from './ProjectCard';
 import { Row, Container } from 'react-bootstrap';
 // Assets
 import placeholderIMG1 from '../assets/legoPlaceholder.jpg'
+import nameLogo from '../assets/fireballLogo.png'
 import fireballLogo from '../assets/FireBallToolsLogo.png'
 import playersPage from '../assets/Players Tab.png'
 import homePageCharacters from '../assets/Characters home.png'
@@ -26,7 +27,7 @@ export default function Projects() {
       name: "Senior Capstone",
       desc: "C# .NET / React",
       info: "Dungeon and Dragons game master virtual tools. React frontend paired with C# .NET backend. Search for official monsters and spells, import characters, and create combat encounters.",
-      img: [fireballLogo, playersPage, homePageCharacters, encounterSim, encounterBuilder, sampleMonster, spellEncounter]
+      img: [nameLogo, fireballLogo, playersPage, homePageCharacters, encounterSim, encounterBuilder, sampleMonster, spellEncounter]
     },
     {
       id: 3,
