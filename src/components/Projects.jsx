@@ -48,7 +48,7 @@ export default function Projects() {
     <div id='projects' className='alt-background'>
       <Container className='py-5 my-5'>
         <h2>Projects</h2>
-        <Row xs={1} md={2} lg={3} className="g-4">
+        <Row xs={1} md={2} lg={3} className="g-4 mt-3">
           {projects.map((project) => (
             <ProjectCard key={project.id} project={project} />
           ))}

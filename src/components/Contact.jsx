@@ -24,8 +24,8 @@ export default function Contact() {
             </Card>
           </Col>
           <Col sm={2}>
-            <a href='https://www.linkedin.com/in/ethan-ramos-375698168/' target='_blank'>
-              <Linkedin className='linkedin' color='black' size={120}/>
+            <a id='linkedin' href='https://www.linkedin.com/in/ethan-ramos-375698168/' target='_blank'>
+              <Linkedin color='black' size={120}/>
             </a>
           </Col>
         </Row>
