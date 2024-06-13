@@ -6,7 +6,7 @@ export default function ProjectCard({project}) {
     return (
         <Col key={project.id}>
             <Card>
-                <Card.Img variant="top" src={project.img[0]} alt='sad lego man'/>
+                <Card.Img style={{ objectFit: 'cover', maxHeight: '200px', borderRadius: '0'}} variant="top" src={project.img[0]} alt='sad lego man'/>
                 <Card.Body>
                     <Card.Title>{project.name}</Card.Title>
                     <Card.Subtitle>{project.desc}</Card.Subtitle>

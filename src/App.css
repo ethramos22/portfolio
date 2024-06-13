@@ -66,3 +66,13 @@ html {
 .card-image-top {
   border-radius: 0 !important;
 }
+
+/* Contact */
+
+#linkedin {
+  transition: 0.3 ease-in-out;
+}
+
+#linkedin:hover {
+  stroke: blueviolet;
+}
