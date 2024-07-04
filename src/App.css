@@ -69,15 +69,19 @@ html {
 
 /* Contact */
 
-#linkedin {
+#email {
+  text-decoration: none;
+  color: black;
+}
+
+.hover-bar {
   position: relative;
   /* Needed for positioning the ::after element */
   display: inline-block;
   /* Ensures the rectangle is sized relative to the link */
 }
 
-/* Create the rectangle */
-#linkedin::after {
+.hover-bar::after {
   content: '';
   position: absolute;
   left: 0;
@@ -88,6 +92,6 @@ html {
   transition: width 0.2s ease-in-out;
 }
 
-#linkedin:hover::after {
+.hover-bar:hover::after {
   width: 100%;
 }

@@ -18,7 +18,8 @@ export default function QuickLinks() {
                     </Button>
                     <Button href='#contact' variant='secondary'>
                         <span className='spacer-right'>Contact Me</span>
-                        <CornerRightDown className='right-align' color='black'/></Button>
+                        <CornerRightDown className='right-align' color='black' />
+                    </Button>
                 </ButtonGroup>
             </Container>
         </div>

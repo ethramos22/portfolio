@@ -5,27 +5,16 @@ import { Linkedin } from 'react-feather';
 export default function Contact() {
   return (
     <div id='contact' className='alt-background'>
-      <Container className='py-5 my-5'>
-        <h2>Contact Me</h2>
-        <Row className='mt-5'>
-          <Col className='me-5' sm={8}>
-            <Card>
-              <Card.Header>Email</Card.Header>
-              <Card.Body>
-                <blockquote className="blockquote mb-0">
-                  <p>
-                    {' '}ethramos22@gmail.com{' '}
-                  </p>
-                  <footer className="blockquote-footer">
-                    Let me know if you saw my site and what you thought!
-                  </footer>
-                </blockquote>
-              </Card.Body>
-            </Card>
+      <Container className='py-3 my-3'>
+        <Row className="justify-content-md-center">
+          <Col xs lg="2">
+            <a id='email' className='hover-bar' href='mailto:ethramos22@gmail.com'>
+              ethramos22@gmail.com
+            </a>
           </Col>
-          <Col sm={2}>
-            <a id='linkedin' href='https://www.linkedin.com/in/ethan-ramos-375698168/' target='_blank'>
-              <Linkedin color='black' size={120}/>
+          <Col xs lg="2">
+            <a className='hover-bar' href='https://www.linkedin.com/in/ethan-ramos-375698168/' target='_blank'>
+              <Linkedin color='black' size={30}/>
             </a>
           </Col>
         </Row>
