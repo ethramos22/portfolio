@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "2533442680375b1130d4",
-    "url": "/portfolio/static/css/main.d1233247.chunk.css"
+    "revision": "29b0f11f2d036452fda5",
+    "url": "/portfolio/static/css/main.d1b47ab9.chunk.css"
   },
   {
-    "revision": "2533442680375b1130d4",
-    "url": "/portfolio/static/js/main.25334426.chunk.js"
+    "revision": "29b0f11f2d036452fda5",
+    "url": "/portfolio/static/js/main.29b0f11f.chunk.js"
   },
   {
     "revision": "956090ea75eddc4a5476",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/ERLogo.1e8c7e74.svg"
   },
   {
-    "revision": "c1f1438c07b7eba374dbc56d3550fec2",
+    "revision": "05628586ef901abf02a6056bbfcdebfa",
     "url": "/portfolio/index.html"
   }
 ];
