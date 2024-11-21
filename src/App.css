@@ -67,6 +67,17 @@ html {
   border-radius: 0 !important;
 }
 
+.photoInfo {
+    background: rgba(0, 0, 0, 0.5);
+      /* Semi-transparent black */
+      color: white;
+      /* Text color */
+      padding: 10px;
+      /* Inner spacing */
+      border-radius: 15px;
+      /* Rounded corners */
+}
+
 /* Contact */
 
 #email {
