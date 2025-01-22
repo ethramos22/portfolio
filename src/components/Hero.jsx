@@ -13,12 +13,8 @@ export default function Hero() {
       <Container className='py-5'>
         <Row>
           <Col>
-            <h1 id='Hero-Header'>Ethan Ramos</h1>
-        <h2 className='Subheading'>Fullstack Web Developer</h2>
-        <p>Welcome to my portfolio site.</p>
-        <Button href='#contact' variant='secondary' onClick={() => handleContact()}>Contact Me</Button>
-          </Col>
-          <Col>
+            <h1>Ethan Ramos</h1>
+            <p>Fullstack Web Developer</p>
           </Col>
         </Row>
       </Container>
