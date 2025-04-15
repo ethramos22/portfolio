@@ -1,27 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "aff569b8a1f268513241",
-    "url": "/portfolio/static/css/main.e95f4134.chunk.css"
+    "revision": "82ee3bb745ea9c83140c",
+    "url": "/portfolio/static/css/main.34f18fad.chunk.css"
   },
   {
-    "revision": "aff569b8a1f268513241",
-    "url": "/portfolio/static/js/main.aff569b8.chunk.js"
+    "revision": "82ee3bb745ea9c83140c",
+    "url": "/portfolio/static/js/main.82ee3bb7.chunk.js"
   },
   {
-    "revision": "93c748a80b187c4a0720",
-    "url": "/portfolio/static/js/1.93c748a8.chunk.js"
+    "revision": "0a58e1c4ae58131f766e",
+    "url": "/portfolio/static/js/1.0a58e1c4.chunk.js"
   },
   {
-    "revision": "e8c021e60e51fa79e2a4",
-    "url": "/portfolio/static/css/2.1dbb24a8.chunk.css"
+    "revision": "3aaf115ede90341eeff9",
+    "url": "/portfolio/static/css/2.c699cb0d.chunk.css"
   },
   {
-    "revision": "e8c021e60e51fa79e2a4",
-    "url": "/portfolio/static/js/2.e8c021e6.chunk.js"
+    "revision": "3aaf115ede90341eeff9",
+    "url": "/portfolio/static/js/2.3aaf115e.chunk.js"
   },
   {
-    "revision": "948716af259df7524663",
-    "url": "/portfolio/static/js/runtime~main.948716af.js"
+    "revision": "8456b314836c19f5cc46",
+    "url": "/portfolio/static/js/runtime~main.8456b314.js"
   },
   {
     "revision": "0695608317be8faa4517204190a42149",
@@ -52,6 +52,10 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/Spell Encounter Home.421d5e2e.png"
   },
   {
+    "revision": "8ce4afdbbc2bb648f188f05a3cad94a4",
+    "url": "/portfolio/static/media/Fighter.8ce4afdb.png"
+  },
+  {
     "revision": "1e8c7e7478b953b6aefebfed4b80d5ee",
     "url": "/portfolio/static/media/ERLogo.1e8c7e74.svg"
   },
@@ -60,7 +64,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/legoPlaceholder.1868aacb.jpg"
   },
   {
-    "revision": "4361bbd924fc06d25278032bf34ddf12",
+    "revision": "db1276dcfbcf307b198bb7b2b07779eb",
     "url": "/portfolio/index.html"
   }
 ];
