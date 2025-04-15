@@ -4,6 +4,7 @@ import ProjectCard from './ProjectCard';
 import { Row, Container } from 'react-bootstrap';
 // Assets
 import placeholderIMG1 from '../assets/legoPlaceholder.jpg'
+import brandPhoto from '../assets/BrandScreenshot.png'
 import nameLogo from '../assets/fireballLogo.png'
 import playersPage from '../assets/Players Tab.png'
 import homePageCharacters from '../assets/Characters home.png'
@@ -20,7 +21,7 @@ export default function Projects() {
       desc: "React / Bootstrap",
       info: "This very site! Refreshed skills in Bootstrap with a React framework. Custom CSS styles paired with bootstrap components for my design.",
       img: [
-        { title: "Portfolio", photo: placeholderIMG1, pageDesc: "" }
+        { title: "Portfolio", photo: brandPhoto, pageDesc: "" }
       ]
     },
     {
