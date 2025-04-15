@@ -11,13 +11,13 @@ export default function ProjectCard({ project }) {
     return (
         <>
             <Col key={project.id}>
-                <Card>
+                <Card className='h100'>
                     <Card.Img style={{ objectFit: 'cover', maxHeight: '200px', borderRadius: '0' }} variant="top" src={project.img[0].photo} alt='sad lego man' />
-                    <Card.Body>
+                    <Card.Body className='d-flex flex-column'>
                         <Card.Title>{project.name}</Card.Title>
                         <Card.Subtitle>{project.desc}</Card.Subtitle>
                         <Card.Text>{project.info}</Card.Text>
-                        <Button variant='secondary' onClick={handleShow}>View Project</Button>
+                        <Button className='mt-auto' style={{ width: '50%'}} variant='secondary' onClick={handleShow}>View Project</Button>
                     </Card.Body>
                 </Card>
             </Col>

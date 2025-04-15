@@ -38,6 +38,15 @@ export default function Projects() {
         { title: "Search Monsters", photo: sampleMonster, pageDesc: "Using our own search engine, you can quickly search our database of monster creatures and learn more about them." },
         { title: "Search Spells", photo: spellEncounter, pageDesc: "Spells and rules are also able to be searched, allowing a user to quickly learn about their power." }
       ]
+    },
+    {
+      id: 3,
+      name: "Dungeon & Dragons Class Picker",
+      desc: "React HTML / CSS",
+      info: "A simple class picker for Dungeons and Dragons 5th edition. Under Construction...",
+      img: [
+        { title: "Placeholder", photo: placeholderIMG1, pageDesc: "" }
+      ]
     }
   ]
   
@@ -47,7 +56,7 @@ export default function Projects() {
         <h2>Projects</h2>
         <Row xs={1} md={2} lg={3} className="g-4 mt-3">
           {projects.map((project) => (
-            <ProjectCard key={project.id} project={project} />
+            <ProjectCard key={project.id} project={project} className="project-card" />
           ))}
         </Row>
       </Container>
