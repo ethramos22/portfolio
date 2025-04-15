@@ -30,12 +30,12 @@ export default function Projects() {
       info: "Dungeon and Dragons game master virtual tools. React frontend paired with C# .NET backend. Search for official monsters and spells, import characters, and create combat encounters.",
       img: [
         { title: "Logo", photo: nameLogo, pageDesc: "Custom logo created in Canva" },
-        { title: "Players Page", photo: playersPage, pageDesc: "Using an API Players can directly import there current campagin and characters straiht from DNDBeyond with the click of a button! Here players and the Game master can view their stats. The Game master can also add and remove players from the current campaign." },
-        { title: "Dashboard", photo: homePageCharacters, pageDesc: "" },
-        { title: "Encounters", photo: encounterSim, pageDesc: "" },
-        { title: "Create Encounters", photo: encounterBuilder, pageDesc: "" },
-        { title: "Search Monsters", photo: sampleMonster, pageDesc: "" },
-        { title: "Search Spells", photo: spellEncounter, pageDesc: "" }
+        { title: "Players Page", photo: playersPage, pageDesc: "Using our backend API Players can directly import there current campagin and characters straiht from DNDBeyond with the click of a button! Here players and the Game master can view their stats. The Game master can also add and remove players from the current campaign." },
+        { title: "Dashboard", photo: homePageCharacters, pageDesc: "The home dashboard where the Game master can switch between campaigns, determine players health, add notes on players, search up specific rules, and run encounters." },
+        { title: "Encounters", photo: encounterSim, pageDesc: "Game master can run their created encounters, using turn based comabt, easily showing progress and time elapsed. Game masters can also click on their monsters to pull up their stats." },
+        { title: "Create Encounters", photo: encounterBuilder, pageDesc: "Pulling from over 500 monsters, the game master can strategise and plan difficulty for whatever level of a party. A game master can also quickly generate a combat encounter using our random encounter generator." },
+        { title: "Search Monsters", photo: sampleMonster, pageDesc: "Using our own search engine, you can quickly search our database of monster creatures and learn more about them." },
+        { title: "Search Spells", photo: spellEncounter, pageDesc: "Spells and rules are also able to be searched, allowing a user to quickly learn about their power." }
       ]
     }
   ]
