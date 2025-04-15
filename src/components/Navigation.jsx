@@ -1,6 +1,5 @@
 import React from 'react'
 import { Nav, Navbar, Container } from 'react-bootstrap';
-import { Home } from 'react-feather';
 
 export default function Navigation() {
     return (
