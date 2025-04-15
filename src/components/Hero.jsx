@@ -16,6 +16,9 @@ export default function Hero() {
             <h1>Ethan Ramos</h1>
             <p>Fullstack Web Developer</p>
           </Col>
+          <Col>
+            <h2 className='plaster-regular brand-big'>ER</h2>
+          </Col>
         </Row>
       </Container>
     </div>

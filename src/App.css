@@ -58,6 +58,15 @@ html {
   border-bottom: 2px solid black;
 }
 
+.brand {
+  margin: 0px;
+}
+
+.brand-big {
+  font-size: 200px;
+  margin-left: 100px;
+}
+
 /* Hero */
 
 #hero h1 {
