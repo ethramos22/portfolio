@@ -19,14 +19,24 @@ export default function Projects() {
       name: "Portfolio Site",
       desc: "React / Bootstrap",
       info: "This very site! Refreshed skills in Bootstrap with a React framework. Custom CSS styles paired with bootstrap components for my design.",
-      img: [placeholderIMG1]
+      img: [
+        { title: "Portfolio", photo: placeholderIMG1, pageDesc: "" }
+      ]
     },
     {
       id: 2,
       name: "Senior Capstone",
       desc: "C# .NET / React",
       info: "Dungeon and Dragons game master virtual tools. React frontend paired with C# .NET backend. Search for official monsters and spells, import characters, and create combat encounters.",
-      img: [nameLogo, playersPage, homePageCharacters, encounterSim, encounterBuilder, sampleMonster, spellEncounter]
+      img: [
+        { title: "Logo", photo: nameLogo, pageDesc: "Custom logo created in Canva" },
+        { title: "Players Page", photo: playersPage, pageDesc: "Using an API Players can directly import there current campagin and characters straiht from DNDBeyond with the click of a button! Here players and the Game master can view their stats. The Game master can also add and remove players from the current campaign." },
+        { title: "Dashboard", photo: homePageCharacters, pageDesc: "" },
+        { title: "Encounters", photo: encounterSim, pageDesc: "" },
+        { title: "Create Encounters", photo: encounterBuilder, pageDesc: "" },
+        { title: "Search Monsters", photo: sampleMonster, pageDesc: "" },
+        { title: "Search Spells", photo: spellEncounter, pageDesc: "" }
+      ]
     }
   ]
   
