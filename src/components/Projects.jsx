@@ -4,7 +4,9 @@ import ProjectCard from './ProjectCard';
 import { Row, Container } from 'react-bootstrap';
 // Assets
 import placeholderIMG1 from '../assets/legoPlaceholder.jpg'
+// Portfolio
 import brandPhoto from '../assets/BrandScreenshot.png'
+// Capstone
 import nameLogo from '../assets/fireballLogo.png'
 import playersPage from '../assets/Players Tab.png'
 import homePageCharacters from '../assets/Characters home.png'
@@ -12,6 +14,8 @@ import encounterSim from '../assets/Sample Encounter.png'
 import encounterBuilder from '../assets/Encounter Builder.png'
 import sampleMonster from '../assets/Search Monster.png'
 import spellEncounter from '../assets/Spell Encounter Home.png'
+// DND Class Piccker
+import fighterPixel from '../assets/Fighter.png'
 
 export default function Projects() {
   var projects = [
@@ -45,7 +49,7 @@ export default function Projects() {
       desc: "React HTML / CSS",
       info: "A simple class picker for Dungeons and Dragons 5th edition. Under Construction...",
       img: [
-        { title: "Placeholder", photo: placeholderIMG1, pageDesc: "" }
+        { title: "Placeholder", photo: fighterPixel, pageDesc: "" }
       ]
     }
   ]
