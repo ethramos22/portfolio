@@ -27,8 +27,7 @@ export default function About() {
               impacts on certain groups.</p>
           </li>
           <li className='about-item'>
-            <p><strong>My life and looking ahead. </strong>I’ve travelled to nine different countries,
-              Switzerland being my favorite so far. I graduated from the University of Utah
+            <p><strong>My life and looking ahead. </strong>I graduated from the University of Utah
               with a bachelors in computer science, and a minor in math.
               I’ve worked in retail, served on presidential search committees,
               and interned with United Airlines.
