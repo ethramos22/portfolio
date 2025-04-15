@@ -8,7 +8,6 @@ import About from './components/About';
 import Contact from './components/Contact'
 import Navigation from './components/Navigation';
 import QuickLinks from './components/QuickLinks';
-import ContactForm from './components/ContactForm';
 
 
 function App() {
@@ -19,7 +18,6 @@ function App() {
       <QuickLinks/>
       <Projects />
       <About />
-      <ContactForm />
       <Contact />
     </div>
   );
