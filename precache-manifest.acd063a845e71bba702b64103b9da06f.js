@@ -1,39 +1,31 @@
 self.__precacheManifest = [
   {
-    "revision": "fad7600d4c279d5641a2",
-    "url": "/portfolio/static/css/main.5091ff91.chunk.css"
+    "revision": "aff569b8a1f268513241",
+    "url": "/portfolio/static/css/main.e95f4134.chunk.css"
   },
   {
-    "revision": "fad7600d4c279d5641a2",
-    "url": "/portfolio/static/js/main.fad7600d.chunk.js"
+    "revision": "aff569b8a1f268513241",
+    "url": "/portfolio/static/js/main.aff569b8.chunk.js"
   },
   {
     "revision": "93c748a80b187c4a0720",
     "url": "/portfolio/static/js/1.93c748a8.chunk.js"
   },
   {
-    "revision": "9247cf689b28fbaecb82",
+    "revision": "e8c021e60e51fa79e2a4",
     "url": "/portfolio/static/css/2.1dbb24a8.chunk.css"
   },
   {
-    "revision": "9247cf689b28fbaecb82",
-    "url": "/portfolio/static/js/2.9247cf68.chunk.js"
+    "revision": "e8c021e60e51fa79e2a4",
+    "url": "/portfolio/static/js/2.e8c021e6.chunk.js"
   },
   {
     "revision": "948716af259df7524663",
     "url": "/portfolio/static/js/runtime~main.948716af.js"
   },
   {
-    "revision": "1868aacb699b54556b35d181cf81951e",
-    "url": "/portfolio/static/media/legoPlaceholder.1868aacb.jpg"
-  },
-  {
     "revision": "0695608317be8faa4517204190a42149",
     "url": "/portfolio/static/media/fireballLogo.06956083.png"
-  },
-  {
-    "revision": "8d4f12ddc2d9edee524c6e4529ad8ef4",
-    "url": "/portfolio/static/media/FireBallToolsLogo.8d4f12dd.png"
   },
   {
     "revision": "7fc5862b31b02bf9f59a3e031d683fd9",
@@ -64,7 +56,11 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/ERLogo.1e8c7e74.svg"
   },
   {
-    "revision": "fafbc52e0e1261bd0d9d3598b416da77",
+    "revision": "1868aacb699b54556b35d181cf81951e",
+    "url": "/portfolio/static/media/legoPlaceholder.1868aacb.jpg"
+  },
+  {
+    "revision": "4361bbd924fc06d25278032bf34ddf12",
     "url": "/portfolio/index.html"
   }
 ];
