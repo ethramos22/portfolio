@@ -6,7 +6,6 @@ export default function QuickLinks() {
     return (
         <div id='quickLinks'>
             <Container className='pb-4 mx-auto'>
-                <h5>Quick Links</h5>
                 <ButtonGroup>
                     <Button href='#projects' variant='secondary'>
                         <span className='spacer-right'>Projects</span>
