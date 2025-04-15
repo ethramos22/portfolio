@@ -72,6 +72,41 @@ html {
   font-size: 80px;
 }
 
+.wash-over {
+  position: relative;
+  font-size: 200px;
+  /* Adjust as needed */
+  font-weight: bold;
+  color: black;
+  /* Start with black text */
+  background-color: black;
+  /* Start with black background color */
+  -webkit-background-clip: text;
+  /* Clips the background to the text */
+  background-clip: text;
+  /* Standard property for non-WebKit browsers */
+  -webkit-text-fill-color: transparent;
+  /* Ensures the background is visible */
+  animation: washOver 2s ease-in-out forwards;
+  /* One-time animation */
+}
+
+@keyframes washOver {
+  0% {
+    background-color: black;
+    /* Start with black */
+  }
+
+  50% {
+    background-color: var(--alt);
+    /* Transition to blue */
+  }
+
+  100% {
+    background-color: black;
+    /* Return to black */
+  }
+}
 
 /* Quick Links */
 

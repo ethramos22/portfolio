@@ -17,7 +17,7 @@ export default function Hero() {
             <p>Fullstack Web Developer</p>
           </Col>
           <Col xs={12} md={6} className='text-center'>
-            <h2 className='plaster-regular brand-big'>ER</h2>
+            <h2 className='plaster-regular brand-big wash-over'>ER</h2>
           </Col>
         </Row>
       </Container>
