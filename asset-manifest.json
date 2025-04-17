@@ -1,7 +1,7 @@
 {
-  "main.css": "/portfolio/static/css/main.e59f405d.chunk.css",
-  "main.js": "/portfolio/static/js/main.a9b63558.chunk.js",
-  "main.js.map": "/portfolio/static/js/main.a9b63558.chunk.js.map",
+  "main.css": "/portfolio/static/css/main.57160f47.chunk.css",
+  "main.js": "/portfolio/static/js/main.198ff576.chunk.js",
+  "main.js.map": "/portfolio/static/js/main.198ff576.chunk.js.map",
   "static/js/1.93c748a8.chunk.js": "/portfolio/static/js/1.93c748a8.chunk.js",
   "static/js/1.93c748a8.chunk.js.map": "/portfolio/static/js/1.93c748a8.chunk.js.map",
   "static/css/2.c699cb0d.chunk.css": "/portfolio/static/css/2.c699cb0d.chunk.css",
@@ -18,9 +18,9 @@
   "static/media/Spell Encounter Home.png": "/portfolio/static/media/Spell Encounter Home.421d5e2e.png",
   "static/media/Fighter.png": "/portfolio/static/media/Fighter.8ce4afdb.png",
   "static/media/legoPlaceholder.jpg": "/portfolio/static/media/legoPlaceholder.1868aacb.jpg",
-  "static/css/main.e59f405d.chunk.css.map": "/portfolio/static/css/main.e59f405d.chunk.css.map",
   "static/css/2.c699cb0d.chunk.css.map": "/portfolio/static/css/2.c699cb0d.chunk.css.map",
+  "static/css/main.57160f47.chunk.css.map": "/portfolio/static/css/main.57160f47.chunk.css.map",
   "index.html": "/portfolio/index.html",
-  "precache-manifest.72e8b7775454fcb5954569a13424fd40.js": "/portfolio/precache-manifest.72e8b7775454fcb5954569a13424fd40.js",
+  "precache-manifest.bd1c18c82436beda312081ac7e5a47c7.js": "/portfolio/precache-manifest.bd1c18c82436beda312081ac7e5a47c7.js",
   "service-worker.js": "/portfolio/service-worker.js"
 }
