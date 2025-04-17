@@ -1,12 +1,8 @@
 import React from 'react'
 import '../App.css';
 import { Button, Col, Row, Container } from 'react-bootstrap';
-import Logo from '../assets/ERLogo.svg'
 
 export default function Hero() {
-  function handleContact() {
-    console.log("Pizza Time");
-  }
 
   return (
     <div id='hero'>
