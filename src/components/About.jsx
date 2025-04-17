@@ -21,10 +21,7 @@ export default function About() {
               I loved being surrounded by students of different cultures and lived
               experiences at the University of Utah.
               I believe the success of a team can be attributed to individuals with
-              different perspectives. Technology time and time again has negatively
-              impacted those marginalized by society.
-              Artificial Intelligence, and product development need to consider the
-              impacts on certain groups.</p>
+              different perspectives. People working in technology need to understand it's impacts.</p>
           </li>
           <li className='about-item'>
             <p><strong>My life and looking ahead. </strong>I graduated from the University of Utah
