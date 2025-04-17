@@ -66,6 +66,11 @@ html {
   font-size: 200px;
 }
 
+.nav-link {
+  visibility: hidden;
+  height: 0px;
+}
+
 /* Hero */
 
 #hero h1 {
@@ -267,5 +272,9 @@ html {
     width: 120px;
     margin-top: 7px;
     padding-right: 20px;
+  }
+
+  .nav-link {
+    visibility: visible;
   }
 }
