@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "198ff576adae2c3debf7",
-    "url": "/portfolio/static/css/main.57160f47.chunk.css"
+    "revision": "74803cd47bfff0a5a4d1",
+    "url": "/portfolio/static/css/main.cef6e6e2.chunk.css"
   },
   {
-    "revision": "198ff576adae2c3debf7",
-    "url": "/portfolio/static/js/main.198ff576.chunk.js"
+    "revision": "74803cd47bfff0a5a4d1",
+    "url": "/portfolio/static/js/main.74803cd4.chunk.js"
   },
   {
     "revision": "93c748a80b187c4a0720",
@@ -60,7 +60,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/legoPlaceholder.1868aacb.jpg"
   },
   {
-    "revision": "4301eba9495ba04b19645207d93faa25",
+    "revision": "06b6df7c459d5e0bb320c7d5aac95bbf",
     "url": "/portfolio/index.html"
   }
 ];
