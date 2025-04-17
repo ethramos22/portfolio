@@ -280,6 +280,7 @@ html {
 
   .nav-link {
     visibility: visible;
+    height: initial;
   }
 
   .spacer-right {
