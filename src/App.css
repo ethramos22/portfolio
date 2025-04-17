@@ -108,10 +108,11 @@ html {
 
 #quickLinks {
   transform: translateY(75%);
+  text-align: center;
 }
 
-.spacer-right {
-  margin-right: 40px;
+.nav-arrow {
+  visibility: hidden;
 }
 
 /* Projects */
@@ -241,7 +242,10 @@ html {
   .about-item {
     width: 50%;
   }
-  
+
+  #quickLinks {
+    text-align: start;
+  }
 }
 
 @media only screen and (min-width: 1024px) {
@@ -275,6 +279,18 @@ html {
   }
 
   .nav-link {
+    visibility: visible;
+  }
+
+  .spacer-right {
+    margin-right: 40px;
+  }
+
+  #quickLinks {
+    text-align: start;
+  }
+
+  .nav-arrow {
     visibility: visible;
   }
 }
