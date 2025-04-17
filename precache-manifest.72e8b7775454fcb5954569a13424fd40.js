@@ -1,27 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "82ee3bb745ea9c83140c",
-    "url": "/portfolio/static/css/main.34f18fad.chunk.css"
+    "revision": "a9b63558ae1e9efc4487",
+    "url": "/portfolio/static/css/main.e59f405d.chunk.css"
   },
   {
-    "revision": "82ee3bb745ea9c83140c",
-    "url": "/portfolio/static/js/main.82ee3bb7.chunk.js"
+    "revision": "a9b63558ae1e9efc4487",
+    "url": "/portfolio/static/js/main.a9b63558.chunk.js"
   },
   {
-    "revision": "0a58e1c4ae58131f766e",
-    "url": "/portfolio/static/js/1.0a58e1c4.chunk.js"
+    "revision": "93c748a80b187c4a0720",
+    "url": "/portfolio/static/js/1.93c748a8.chunk.js"
   },
   {
-    "revision": "3aaf115ede90341eeff9",
+    "revision": "b9026afbe17c28213a1c",
     "url": "/portfolio/static/css/2.c699cb0d.chunk.css"
   },
   {
-    "revision": "3aaf115ede90341eeff9",
-    "url": "/portfolio/static/js/2.3aaf115e.chunk.js"
+    "revision": "b9026afbe17c28213a1c",
+    "url": "/portfolio/static/js/2.b9026afb.chunk.js"
   },
   {
-    "revision": "8456b314836c19f5cc46",
-    "url": "/portfolio/static/js/runtime~main.8456b314.js"
+    "revision": "948716af259df7524663",
+    "url": "/portfolio/static/js/runtime~main.948716af.js"
   },
   {
     "revision": "0695608317be8faa4517204190a42149",
@@ -56,15 +56,11 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/Fighter.8ce4afdb.png"
   },
   {
-    "revision": "1e8c7e7478b953b6aefebfed4b80d5ee",
-    "url": "/portfolio/static/media/ERLogo.1e8c7e74.svg"
-  },
-  {
     "revision": "1868aacb699b54556b35d181cf81951e",
     "url": "/portfolio/static/media/legoPlaceholder.1868aacb.jpg"
   },
   {
-    "revision": "db1276dcfbcf307b198bb7b2b07779eb",
+    "revision": "1cb4a92d7b1fda62cf5c7de5d3ad28a5",
     "url": "/portfolio/index.html"
   }
 ];
