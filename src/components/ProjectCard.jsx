@@ -15,9 +15,9 @@ export default function ProjectCard({ project }) {
                     <Card.Img style={{ objectFit: 'cover', maxHeight: '200px', borderRadius: '0' }} variant="top" src={project.img[0].photo} alt='sad lego man' />
                     <Card.Body className='d-flex flex-column'>
                         <Card.Title>{project.name}</Card.Title>
-                        <Card.Subtitle>{project.desc}</Card.Subtitle>
+                        <Card.Subtitle className='pb-3'>{project.desc}</Card.Subtitle>
                         <Card.Text>{project.info}</Card.Text>
-                        {project.live === "true" ? <Button className='mt-auto' style={{ width: '50%' }} variant='primary' href={project.link} target='_blank'>Live Site</Button>
+                        {project.live === "true" ? <Button className='mt-auto' style={{ width: '50%' }} variant='secondary' href={project.link} target='_blank'>Live Site</Button>
                             : <Button className='mt-auto' style={{ width: '50%' }} variant='secondary' onClick={handleShow}>View Project</Button>}
                     </Card.Body>
                 </Card>

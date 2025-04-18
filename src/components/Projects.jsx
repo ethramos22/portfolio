@@ -15,7 +15,7 @@ import encounterBuilder from '../assets/Encounter Builder.png'
 import sampleMonster from '../assets/Search Monster.png'
 import spellEncounter from '../assets/Spell Encounter Home.png'
 // DND Class Piccker
-import fighterPixel from '../assets/Fighter.png'
+import classPickerPic from '../assets/classPickerScreenshot.png'
 
 export default function Projects() {
   var projects = [
@@ -55,7 +55,7 @@ export default function Projects() {
       desc: "React HTML / CSS",
       info: "A simple quiz to determine what your for Dungeons and Dragons 5th edition class should be.",
       img: [
-        { title: "Placeholder", photo: fighterPixel, pageDesc: "" }
+        { title: "Fighter", photo: classPickerPic, pageDesc: "" }
       ]
     }
   ]
