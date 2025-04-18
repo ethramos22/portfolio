@@ -23,6 +23,8 @@ export default function Projects() {
       id: 1,
       name: "Portfolio Site",
       desc: "React / Bootstrap",
+      live: "false",
+      link: "",
       info: "This very site! Refreshed skills in Bootstrap with a React framework. Custom CSS styles paired with bootstrap components for my design.",
       img: [
         { title: "Portfolio", photo: brandPhoto, pageDesc: "" }
@@ -32,6 +34,8 @@ export default function Projects() {
       id: 2,
       name: "Senior Capstone",
       desc: "C# .NET / React",
+      live: "false",
+      link: "",
       info: "Dungeon and Dragons game master virtual tools. React frontend paired with C# .NET backend. Search for official monsters and spells, import characters, and create combat encounters.",
       img: [
         { title: "Logo", photo: nameLogo, pageDesc: "Custom logo created in Canva" },
@@ -46,8 +50,10 @@ export default function Projects() {
     {
       id: 3,
       name: "Dungeon & Dragons Class Picker",
+      live: "true",
+      link: "https://ethramos22.github.io/dnd-class-picker/",
       desc: "React HTML / CSS",
-      info: "A simple class picker for Dungeons and Dragons 5th edition. Under Construction...",
+      info: "A simple quiz to determine what your for Dungeons and Dragons 5th edition class should be.",
       img: [
         { title: "Placeholder", photo: fighterPixel, pageDesc: "" }
       ]

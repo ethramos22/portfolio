@@ -17,7 +17,8 @@ export default function ProjectCard({ project }) {
                         <Card.Title>{project.name}</Card.Title>
                         <Card.Subtitle>{project.desc}</Card.Subtitle>
                         <Card.Text>{project.info}</Card.Text>
-                        <Button className='mt-auto' style={{ width: '50%'}} variant='secondary' onClick={handleShow}>View Project</Button>
+                        {project.live === "true" ? <Button className='mt-auto' style={{ width: '50%' }} variant='primary' href={project.link} target='_blank'>Live Site</Button>
+                            : <Button className='mt-auto' style={{ width: '50%' }} variant='secondary' onClick={handleShow}>View Project</Button>}
                     </Card.Body>
                 </Card>
             </Col>
