@@ -1,26 +1,24 @@
 {
-  "main.css": "/portfolio/static/css/main.cef6e6e2.chunk.css",
-  "main.js": "/portfolio/static/js/main.74803cd4.chunk.js",
-  "main.js.map": "/portfolio/static/js/main.74803cd4.chunk.js.map",
-  "static/js/1.93c748a8.chunk.js": "/portfolio/static/js/1.93c748a8.chunk.js",
-  "static/js/1.93c748a8.chunk.js.map": "/portfolio/static/js/1.93c748a8.chunk.js.map",
-  "static/css/2.c699cb0d.chunk.css": "/portfolio/static/css/2.c699cb0d.chunk.css",
-  "static/js/2.b9026afb.chunk.js": "/portfolio/static/js/2.b9026afb.chunk.js",
-  "static/js/2.b9026afb.chunk.js.map": "/portfolio/static/js/2.b9026afb.chunk.js.map",
-  "runtime~main.js": "/portfolio/static/js/runtime~main.948716af.js",
-  "runtime~main.js.map": "/portfolio/static/js/runtime~main.948716af.js.map",
-  "static/media/fireballLogo.png": "/portfolio/static/media/fireballLogo.06956083.png",
-  "static/media/Players Tab.png": "/portfolio/static/media/Players Tab.7fc5862b.png",
-  "static/media/Characters home.png": "/portfolio/static/media/Characters home.53edbd40.png",
-  "static/media/Sample Encounter.png": "/portfolio/static/media/Sample Encounter.8bd8e5ba.png",
-  "static/media/Encounter Builder.png": "/portfolio/static/media/Encounter Builder.11221583.png",
-  "static/media/Search Monster.png": "/portfolio/static/media/Search Monster.650aaa06.png",
-  "static/media/Spell Encounter Home.png": "/portfolio/static/media/Spell Encounter Home.421d5e2e.png",
-  "static/media/Fighter.png": "/portfolio/static/media/Fighter.8ce4afdb.png",
-  "static/media/legoPlaceholder.jpg": "/portfolio/static/media/legoPlaceholder.1868aacb.jpg",
-  "static/css/2.c699cb0d.chunk.css.map": "/portfolio/static/css/2.c699cb0d.chunk.css.map",
-  "static/css/main.cef6e6e2.chunk.css.map": "/portfolio/static/css/main.cef6e6e2.chunk.css.map",
-  "index.html": "/portfolio/index.html",
-  "precache-manifest.6a69228a2bbde0ef79d1561432dc5367.js": "/portfolio/precache-manifest.6a69228a2bbde0ef79d1561432dc5367.js",
-  "service-worker.js": "/portfolio/service-worker.js"
+  "files": {
+    "main.css": "/portfolio/static/css/main.8f867983.css",
+    "main.js": "/portfolio/static/js/main.39fae69d.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/legoPlaceholder.jpg": "/portfolio/static/media/legoPlaceholder.0c5baa1a822784bebedc.jpg",
+    "static/media/Characters home.png": "/portfolio/static/media/Characters home.9a9a2444f18644f67a34.png",
+    "static/media/Players Tab.png": "/portfolio/static/media/Players Tab.3ea5c8d1e5348aecd6d7.png",
+    "static/media/Encounter Builder.png": "/portfolio/static/media/Encounter Builder.396f77103eb66a070b38.png",
+    "static/media/Search Monster.png": "/portfolio/static/media/Search Monster.b5af2f96cdec10e6eecd.png",
+    "static/media/Sample Encounter.png": "/portfolio/static/media/Sample Encounter.532c9e8d11b69898debd.png",
+    "static/media/Spell Encounter Home.png": "/portfolio/static/media/Spell Encounter Home.5cdbe2019b665493da80.png",
+    "static/media/classPickerScreenshot.png": "/portfolio/static/media/classPickerScreenshot.93cf4401c495e8b25bfe.png",
+    "static/media/fireballLogo.png": "/portfolio/static/media/fireballLogo.47205cb32c43fe4844e9.png",
+    "index.html": "/portfolio/index.html",
+    "main.8f867983.css.map": "/portfolio/static/css/main.8f867983.css.map",
+    "main.39fae69d.js.map": "/portfolio/static/js/main.39fae69d.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f867983.css",
+    "static/js/main.39fae69d.js"
+  ]
 }
