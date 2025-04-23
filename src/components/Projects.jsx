@@ -33,7 +33,7 @@ export default function Projects() {
     {
       id: 2,
       name: "Senior Capstone",
-      desc: "C# .NET / React",
+      desc: "C# .NET / React / SQL",
       live: "false",
       link: "",
       info: "Dungeon and Dragons game master virtual tools. React frontend paired with C# .NET backend. Search for official monsters and spells, import characters, and create combat encounters.",
