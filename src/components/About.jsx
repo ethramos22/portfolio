@@ -24,12 +24,10 @@ export default function About() {
               different perspectives. People working in technology need to understand it's impacts.</p>
           </li>
           <li className='about-item'>
-            <p><strong>My life and looking ahead. </strong>I graduated from the University of Utah
-              with a bachelors in computer science, and a minor in math.
-              I’ve worked in retail, served on presidential search committees,
-              and interned with United Airlines.
-              I’m seeking a company that matches my values where I can
-              grow and challenge myself.</p>
+            <p><strong>Proactive Arranger.</strong> I thrive in community and love being flexible
+            in my approach. I stay organized, planning sessions of Dungeons & Dragons with my friends
+            as game master. I enjoy figuring out how to align people and get the best results. I'm
+            quick to jump in and help where needed.</p>
           </li>
         </ul>
       </Container>
