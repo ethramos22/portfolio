@@ -12,7 +12,7 @@ export default function ProjectCard({ project }) {
         <>
             <Col key={project.id}>
                 <Card className='h100'>
-                    <Card.Img style={{ objectFit: 'cover', maxHeight: '200px', borderRadius: '0' }} variant="top" src={project.img[0].photo} alt='sad lego man' />
+                    <Card.Img className='card-img' style={{ objectFit: 'cover', maxHeight: '200px', borderRadius: '0' }} variant="top" src={project.img[0].photo} alt='sad lego man' />
                     <Card.Body className='d-flex flex-column'>
                         <Card.Title>{project.name}</Card.Title>
                         <Card.Subtitle className='pb-3'>{project.desc}</Card.Subtitle>

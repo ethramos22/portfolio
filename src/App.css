@@ -129,9 +129,8 @@ html {
   /* Ensures all cards are the same height */
 }
 
-.card-header {
-  background-color: var(--dark);
-  border-radius: 0 !important;
+.card-img {
+  border-bottom: solid;
 }
 
 .card-image-top {

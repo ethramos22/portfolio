@@ -16,11 +16,24 @@ import sampleMonster from '../assets/Search Monster.png'
 import spellEncounter from '../assets/Spell Encounter Home.png'
 // DND Class Piccker
 import classPickerPic from '../assets/classPickerScreenshot.png'
+// DND Monster Attack Ext
+import dndMonsterAttackExtLogo from '../assets/dndbeyond-monster-attack-ext-logo.png'
 
 export default function Projects() {
   var projects = [
-    { 
+    {
       id: 1,
+      name: "D&D Homebrew Attack Builder",
+      desc: "Chrome Extenstion | Javascript",
+      live: "true",
+      link: "https://chromewebstore.google.com/detail/dd-beyond-insert-attack/aihaejoembhmlbmakcnfjdciplkhjmdk?authuser=0&hl=en",
+      info: "Custom Google Chrome Extension to appear on homebrew monster pages. This fancy tool makes creating custom stat blocks a breeze. You can quickly add multiple damage types to any monster's attack making it rollable.",
+      img: [
+        { title: "Ext Logo", photo: dndMonsterAttackExtLogo, pageDesc: "" }
+      ]
+    },
+    { 
+      id: 2,
       name: "Portfolio Site",
       desc: "React / Bootstrap",
       live: "false",
@@ -31,7 +44,7 @@ export default function Projects() {
       ]
     },
     {
-      id: 2,
+      id: 3,
       name: "Senior Capstone",
       desc: "C# .NET / React / SQL",
       live: "false",
@@ -48,7 +61,7 @@ export default function Projects() {
       ]
     },
     {
-      id: 3,
+      id: 4,
       name: "Dungeon & Dragons Class Picker",
       live: "true",
       link: "https://ethramos22.github.io/dnd-class-picker/",
